@@ -1,0 +1,1 @@
+{'neg_total_words': 100140, 'neg_total_specefic_words': 62585, 'neu_total_words': 150732, 'neu_total_specefic_words': 90794, 'pos_total_words': 91860, 'pos_total_specefic_words': 56924}
